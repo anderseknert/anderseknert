@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Hi there!
 
-<!--
-**anderseknert/anderseknert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anders, and these are my personal Github projects. I tend to work mainly in projects surrounding security, identity, authentication and authorization, but I'm interested in most things software. Occasionally I [blog](https://www.eknert.com) about it.
 
-Here are some ideas to get you started:
+Currently working as a developer advocate at [Bisnode](https://www.bisnode.com). Involved in the Open Policy Agent (OPA) community - if you're working on anything cool in that space or want me to come talk about it somewhere, let's have a chat!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✉️ anders \[at\] eknert.com
+- ☎️ For a chat, find me by my name @ the [OPA](https://openpolicyagent.slack.com) or [kubernetes](https://kubernetes.slack.com) Slack
+- 💻 Mainly Macs, but anything UNIX based is fine
+- 🏠 Based in Stockholm, Sweden
+- 👨‍👩‍👧 Girlfriend and a newborn daughter
+- ⏰ Timezone ❄ CET (UTC +1) or ☀️ CEST (UTC +2)
+- 🍺 Yes, please!
