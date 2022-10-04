@@ -13,6 +13,12 @@ Developer advocate at [Styra](https://www.styra.com), the creators of [Open Poli
 - ⏰ Timezone ❄ CET (UTC +1) or ☀️ CEST (UTC +2)
 - 🍺 Yes, please!
 
+## Blogs
+
+- [Dynamic Policy Composition for OPA](https://www.styra.com/blog/dynamic-policy-composition-for-opa/)
+- [Linting Rego With... Rego!](https://www.styra.com/blog/linting-rego-with-rego/)
+- [The Kubernetes Authorization Webhook](https://www.styra.com/blog/kubernetes-authorization-webhook/)
+
 ## Talks
 
 - [Open Policy Agent, Intro and Deep-Dive](https://www.youtube.com/watch?v=MhyQxIp1H58&), KubeCon + CloudNativeCon, Valencia 2022
