@@ -12,3 +12,14 @@ Developer advocate at [Styra](https://www.styra.com), the creators of [Open Poli
 - 👨‍👩‍👧 Girlfriend and two kids
 - ⏰ Timezone ❄ CET (UTC +1) or ☀️ CEST (UTC +2)
 - 🍺 Yes, please!
+
+## Talks
+
+- [Open Policy Agent, Intro and Deep-Dive](https://www.youtube.com/watch?v=MhyQxIp1H58&), KubeCon + CloudNativeCon, Valencia 2022
+- [Running Away From Responsibilities, the DevSecOps Way](https://www.youtube.com/watch?v=RwsyMLyl8O0), WTFisCloudNative 2021
+- [The Evolution of Access Control](https://www.youtube.com/watch?v=Ka2zNpIKQ_w), API Community, Belgium 2021
+
+## Podcasts
+
+- [The Security Podcast of Silicon Valley](https://open.spotify.com/episode/5DaTLHieDRhI8iKZA7wdl0?si=naE8AVyxT86-ZOX9zaRz2A)
+- [Day Two Cloud](https://packetpushers.net/podcast/day-two-cloud-145-using-open-policy-agent-for-cloud-native-policy-enforcement/)
