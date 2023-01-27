@@ -9,7 +9,7 @@ Developer advocate at [Styra](https://www.styra.com), the creators of [Open Poli
 - 📨 Or on [LinkedIn](https://www.linkedin.com/in/anderseknert/) or [StackOverflow](https://stackoverflow.com/users/11849243/devoops)
 - 🐦 Follow me on [Twitter](https://twitter.com/anderseknert) or [Mastodon](https://hachyderm.io/web/@anderseknert) for all things OPA
 - 🏠 Based in Stockholm, Sweden
-- 👨‍👩‍👧 Partner and two kids
+- 👨‍👩‍👧‍👦 Partner and two kids
 - ⏰ Timezone ❄ CET (UTC +1) or ☀️ CEST (UTC +2)
 - 🍺 Yes, please!
 
@@ -20,6 +20,7 @@ Developer advocate at [Styra](https://www.styra.com), the creators of [Open Poli
 - [Linting Rego With... Rego!](https://www.styra.com/blog/linting-rego-with-rego/)
 - [The Kubernetes Authorization Webhook](https://www.styra.com/blog/kubernetes-authorization-webhook/)
 - [I have a plan! Exploring the OPA Intermediate Representation (IR) format](https://blog.openpolicyagent.org/i-have-a-plan-exploring-the-opa-intermediate-representation-ir-format-7319cd94b37d)
+- Open Policy Agent, Year in Review: [2020](https://blog.openpolicyagent.org/open-policy-agent-2020-year-in-review-dc25b60308d7), [2021](https://blog.openpolicyagent.org/open-policy-agent-2021-year-in-review-f334244868e0), [2022](https://blog.openpolicyagent.org/open-policy-agent-2022-year-in-review-79324ad54535)
 
 ## Talks
 
