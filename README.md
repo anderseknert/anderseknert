@@ -24,6 +24,7 @@ Developer advocate at [Styra](https://www.styra.com), the creators of [Open Poli
 
 ## Talks
 
+- [API Authorization with Open Policy Agent](https://www.youtube.com/watch?v=SC5tgMbRr88), API Days, Paris 2022
 - [Open Policy Agent, Intro and Deep-Dive](https://www.youtube.com/watch?v=MhyQxIp1H58&), KubeCon + CloudNativeCon, Valencia 2022
 - [Running Away From Responsibilities, the DevSecOps Way](https://www.youtube.com/watch?v=RwsyMLyl8O0), WTFisCloudNative 2021
 - [The Evolution of Access Control](https://www.youtube.com/watch?v=Ka2zNpIKQ_w), API Community, Belgium 2021
