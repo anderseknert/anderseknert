@@ -24,6 +24,7 @@ Developer advocate at [Styra](https://www.styra.com), the creators of [Open Poli
 
 ## Talks
 
+- [The Compliance Business Case for Kubernetes in the EU: Get Ready for the EUCS](https://www.youtube.com/watch?v=XoWf4QcSbDw), KubeCon + CloudNativeCon, Amsterdam, 2023
 - [API Authorization with Open Policy Agent](https://www.youtube.com/watch?v=SC5tgMbRr88), API Days, Paris 2022
 - [Open Policy Agent, Intro and Deep-Dive](https://www.youtube.com/watch?v=MhyQxIp1H58&), KubeCon + CloudNativeCon, Valencia 2022
 - [Running Away From Responsibilities, the DevSecOps Way](https://www.youtube.com/watch?v=RwsyMLyl8O0), WTFisCloudNative 2021
