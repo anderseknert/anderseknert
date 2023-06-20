@@ -18,6 +18,7 @@ Developer advocate at [Styra](https://www.styra.com), the creators of [Open Poli
 - [WTF is Policy as Code?](https://blog.container-solutions.com/what-is-policy-as-code)
 - [Dynamic Policy Composition for OPA](https://www.styra.com/blog/dynamic-policy-composition-for-opa/)
 - [Linting Rego With... Rego!](https://www.styra.com/blog/linting-rego-with-rego/)
+- [Guarding the Guardrails — Introducing Regal the Rego linter](https://www.styra.com/blog/guarding-the-guardrails-introducing-regal-the-rego-linter/)
 - [The Kubernetes Authorization Webhook](https://www.styra.com/blog/kubernetes-authorization-webhook/)
 - [I have a plan! Exploring the OPA Intermediate Representation (IR) format](https://blog.openpolicyagent.org/i-have-a-plan-exploring-the-opa-intermediate-representation-ir-format-7319cd94b37d)
 - Open Policy Agent, Year in Review: [2020](https://blog.openpolicyagent.org/open-policy-agent-2020-year-in-review-dc25b60308d7), [2021](https://blog.openpolicyagent.org/open-policy-agent-2021-year-in-review-f334244868e0), [2022](https://blog.openpolicyagent.org/open-policy-agent-2022-year-in-review-79324ad54535)
