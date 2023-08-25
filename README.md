@@ -35,3 +35,4 @@ Developer advocate at [Styra](https://www.styra.com), the creators of [Open Poli
 
 - [The Security Podcast of Silicon Valley](https://open.spotify.com/episode/5DaTLHieDRhI8iKZA7wdl0?si=naE8AVyxT86-ZOX9zaRz2A)
 - [Day Two Cloud](https://packetpushers.net/podcast/day-two-cloud-145-using-open-policy-agent-for-cloud-native-policy-enforcement/)
+- [The IaC Podcast](https://www.theiacpodcast.com/episode/open-policy-agent)
