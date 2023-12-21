@@ -7,7 +7,7 @@ Developer advocate at [Styra](https://www.styra.com), the creators of [Open Poli
 - ✉️ anders \[at\] eknert.com
 - ☎️ For a chat, find me by my name @ the [OPA](https://openpolicyagent.slack.com) or [Kubernetes](https://kubernetes.slack.com) Slack
 - 📨 Or on [LinkedIn](https://www.linkedin.com/in/anderseknert/) or [StackOverflow](https://stackoverflow.com/users/11849243/devoops)
-- 🐦 Follow me on [Twitter](https://twitter.com/anderseknert) or [Mastodon](https://hachyderm.io/web/@anderseknert) for all things OPA
+- 🐘 Connect with me on [Mastodon](https://hachyderm.io/web/@anderseknert)
 - 🏠 Based in Stockholm, Sweden 🇸🇪
 - 👨‍👩‍👧‍👦 Partner and two kids
 - ⏰ Timezone ❄ CET (UTC +1) or ☀️ CEST (UTC +2)
