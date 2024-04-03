@@ -26,6 +26,8 @@ Developer advocate at [Styra](https://www.styra.com), the creators of [Open Poli
 
 ## Talks
 
+- [Open Policy Agent, Intro and Deep-Dive](https://www.youtube.com/watch?v=hENwFyrtm1g), KubeCon + CloudNativeCon, Paris, 2024
+- [Can It Be Done? Building Fine-Grained Access Control for Backstage with OPA](https://www.youtube.com/watch?v=N0n_czYo_kE), BackstageCon, Paris, 2024
 - [Get Ready for the EUCS](https://www.youtube.com/watch?v=XoWf4QcSbDw), KubeCon + CloudNativeCon, Amsterdam, 2023
 - [API Authorization with Open Policy Agent](https://www.youtube.com/watch?v=SC5tgMbRr88), API Days, Paris 2022
 - [Open Policy Agent, Intro and Deep-Dive](https://www.youtube.com/watch?v=MhyQxIp1H58&), KubeCon + CloudNativeCon, Valencia 2022
