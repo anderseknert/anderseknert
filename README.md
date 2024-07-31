@@ -22,6 +22,7 @@ Developer advocate at [Styra](https://www.styra.com), the creators of [Open Poli
 - [How to Express OR in Rego](https://www.styra.com/blog/how-to-express-or-in-rego/)
 - [The Kubernetes Authorization Webhook](https://www.styra.com/blog/kubernetes-authorization-webhook/)
 - [I have a plan! Exploring the OPA Intermediate Representation (IR) format](https://blog.openpolicyagent.org/i-have-a-plan-exploring-the-opa-intermediate-representation-ir-format-7319cd94b37d)
+- [Renovating Rego](https://www.styra.com/blog/renovating-rego/)
 - Open Policy Agent, Year in Review: [2020](https://blog.openpolicyagent.org/open-policy-agent-2020-year-in-review-dc25b60308d7), [2021](https://blog.openpolicyagent.org/open-policy-agent-2021-year-in-review-f334244868e0), [2022](https://blog.openpolicyagent.org/open-policy-agent-2022-year-in-review-79324ad54535), [2023](https://blog.openpolicyagent.org/open-policy-agent-2023-year-in-review-4c12df22e351)
 
 ## Talks
