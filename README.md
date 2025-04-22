@@ -26,7 +26,7 @@ Developer advocate at [Styra](https://www.styra.com), the creators of [Open Poli
 - Open Policy Agent, Year in Review: [2020](https://blog.openpolicyagent.org/open-policy-agent-2020-year-in-review-dc25b60308d7), [2021](https://blog.openpolicyagent.org/open-policy-agent-2021-year-in-review-f334244868e0), [2022](https://blog.openpolicyagent.org/open-policy-agent-2022-year-in-review-79324ad54535), [2023](https://blog.openpolicyagent.org/open-policy-agent-2023-year-in-review-4c12df22e351)
 
 ## Talks
-
+- [Open Policy Agent, Intro and Deep-Dive](https://www.youtube.com/watch?v=XtA-NKoJDaI), KubeCon + CloudNativeCon, London, 2025
 - [Open Policy Agent, Intro and Deep-Dive](https://www.youtube.com/watch?v=hENwFyrtm1g), KubeCon + CloudNativeCon, Paris, 2024
 - [Can It Be Done? Building Fine-Grained Access Control for Backstage with OPA](https://www.youtube.com/watch?v=N0n_czYo_kE), BackstageCon, Paris, 2024
 - [Get Ready for the EUCS](https://www.youtube.com/watch?v=XoWf4QcSbDw), KubeCon + CloudNativeCon, Amsterdam, 2023
