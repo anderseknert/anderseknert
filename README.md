@@ -1,8 +1,8 @@
 # 👋 Hi there!
 
-I'm Anders, and these are my personal Github projects. I tend to work mainly in projects surrounding security, identity, authentication and authorization, but I'm interested in most things software. Occasionally I [blog](https://www.eknert.com/blog) about it.
+I'm Anders, and these are my personal Github projects. I tend to work mainly on projects surrounding security, identity, authentication and authorization, but I'm interested in most things software. 
 
-Developer advocate at [Styra](https://www.styra.com), the creators of [Open Policy Agent](https://www.openpolicyagent.org/) (OPA). Involved in most things in the community—if you're working on anything cool in that space or want me to come talk about it somewhere, let's chat!
+Involved in most things [Open Policy Agent](https://www.openpolicyagent.org/) (OPA) and its community. If you're working on anything cool in that space or want me to come talk about it somewhere, let's talk!
 
 - ✉️ anders \[at\] eknert.com
 - ☎️ For a chat, find me by my name @ the [OPA](https://openpolicyagent.slack.com) or [Kubernetes](https://kubernetes.slack.com) Slack
